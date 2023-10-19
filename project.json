@@ -1,8 +1,8 @@
 {
-  "name": "UI PATH PROJECT 4",
-  "projectId": "47ece81b-40c2-45df-8cda-762d3ad78009",
+  "name": "29628784_Project_4",
+  "projectId": "f24f3d0e-d848-4b10-86ed-c63d257d117a",
   "description": "Blank Process",
-  "main": "Customer Test.xaml",
+  "main": "Main.xaml",
   "dependencies": {
     "UiPath.DataService.Activities": "[23.10.0]",
     "UiPath.Excel.Activities": "[2.22.2]",
@@ -16,7 +16,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.10.0.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -52,8 +52,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Customer Test.xaml",
-      "uniqueId": "773cbc53-5f30-44e4-98a3-ac335a9ba19a",
+      "filePath": "Main.xaml",
+      "uniqueId": "19438e8a-8e87-4800-a596-b25ddcb4fac0",
       "input": [],
       "output": []
     }
