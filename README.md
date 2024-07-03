@@ -11,5 +11,5 @@ This project will take you through the process of creating a profile, logging in
 
 Link to UiPath:https://cloud.uipath.com/geenagee/DefaultTenant/orchestrator_/?tid=62929&fid=1135830
 
-Link:: https://cmpg323-ecopowerlogistics.azurewebsites.net/. 
+Link: https://cmpg323-ecopowerlogistics.azurewebsites.net/. 
 
